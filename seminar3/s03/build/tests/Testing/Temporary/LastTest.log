@@ -1,0 +1,169 @@
+Start testing: Dec 20 15:12 +07
+----------------------------------------------------------
+1/6 Testing: PowNTests.NormalCases
+1/6 Test: PowNTests.NormalCases
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=PowNTests.NormalCases" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"PowNTests.NormalCases" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PowNTests.NormalCases
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PowNTests
+[ RUN      ] PowNTests.NormalCases
+[       OK ] PowNTests.NormalCases (0 ms)
+[----------] 1 test from PowNTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PowNTests.NormalCases" end time: Dec 20 15:12 +07
+"PowNTests.NormalCases" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: PowNTests.EdgePowerZeroAndBig
+2/6 Test: PowNTests.EdgePowerZeroAndBig
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=PowNTests.EdgePowerZeroAndBig" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"PowNTests.EdgePowerZeroAndBig" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PowNTests.EdgePowerZeroAndBig
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PowNTests
+[ RUN      ] PowNTests.EdgePowerZeroAndBig
+[       OK ] PowNTests.EdgePowerZeroAndBig (0 ms)
+[----------] 1 test from PowNTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PowNTests.EdgePowerZeroAndBig" end time: Dec 20 15:12 +07
+"PowNTests.EdgePowerZeroAndBig" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: ShuffleTests.SimplePermutation
+3/6 Test: ShuffleTests.SimplePermutation
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=ShuffleTests.SimplePermutation" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"ShuffleTests.SimplePermutation" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ShuffleTests.SimplePermutation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShuffleTests
+[ RUN      ] ShuffleTests.SimplePermutation
+[       OK ] ShuffleTests.SimplePermutation (0 ms)
+[----------] 1 test from ShuffleTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShuffleTests.SimplePermutation" end time: Dec 20 15:12 +07
+"ShuffleTests.SimplePermutation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/6 Testing: ShuffleTests.DuplicateIndices
+4/6 Test: ShuffleTests.DuplicateIndices
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=ShuffleTests.DuplicateIndices" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"ShuffleTests.DuplicateIndices" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ShuffleTests.DuplicateIndices
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ShuffleTests
+[ RUN      ] ShuffleTests.DuplicateIndices
+[       OK ] ShuffleTests.DuplicateIndices (0 ms)
+[----------] 1 test from ShuffleTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ShuffleTests.DuplicateIndices" end time: Dec 20 15:12 +07
+"ShuffleTests.DuplicateIndices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/6 Testing: PvTests.NonEmptyVectors
+5/6 Test: PvTests.NonEmptyVectors
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=PvTests.NonEmptyVectors" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"PvTests.NonEmptyVectors" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PvTests.NonEmptyVectors
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PvTests
+[ RUN      ] PvTests.NonEmptyVectors
+1 2 3 
+a b c 
+[       OK ] PvTests.NonEmptyVectors (0 ms)
+[----------] 1 test from PvTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PvTests.NonEmptyVectors" end time: Dec 20 15:12 +07
+"PvTests.NonEmptyVectors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/6 Testing: PvTests.EmptyVectors
+6/6 Test: PvTests.EmptyVectors
+Command: "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests" "--gtest_filter=PvTests.EmptyVectors" "--gtest_also_run_disabled_tests"
+Directory: /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests
+"PvTests.EmptyVectors" start time: Dec 20 15:12 +07
+Output:
+----------------------------------------------------------
+Running main() from /home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PvTests.EmptyVectors
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PvTests
+[ RUN      ] PvTests.EmptyVectors
+
+
+[       OK ] PvTests.EmptyVectors (0 ms)
+[----------] 1 test from PvTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PvTests.EmptyVectors" end time: Dec 20 15:12 +07
+"PvTests.EmptyVectors" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 20 15:12 +07

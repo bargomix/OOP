@@ -1,0 +1,5 @@
+if(EXISTS "/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests[1]_tests.cmake")
+  include("/home/bargomix/Documents/secondcourse/OOP/seminar3/s03/build/tests/mylib_tests[1]_tests.cmake")
+else()
+  add_test(mylib_tests_NOT_BUILT mylib_tests_NOT_BUILT)
+endif()

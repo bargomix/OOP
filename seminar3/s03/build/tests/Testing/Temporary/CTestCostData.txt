@@ -1,0 +1,7 @@
+PowNTests.NormalCases 1 0.00666457
+PowNTests.EdgePowerZeroAndBig 1 0.00681086
+ShuffleTests.SimplePermutation 1 0.00717124
+ShuffleTests.DuplicateIndices 1 0.00672979
+PvTests.NonEmptyVectors 1 0.00648593
+PvTests.EmptyVectors 1 0.00655633
+---

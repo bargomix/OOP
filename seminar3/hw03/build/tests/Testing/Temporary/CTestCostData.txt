@@ -1,0 +1,22 @@
+PowNTestSuite.NormalCases 1 0.00608551
+PowNTestSuite.EdgePowerZeroAndBig 1 0.00613512
+PowNTestSuite.NegativeBaseEvenPower 1 0.00356243
+PowNTestSuite.NegativeBaseOddPower 1 0.0056583
+PowNTestSuite.DefaultPowerTwo 1 0.00412878
+ShuffleTestSuite.SimplePermutation 1 0.00579773
+ShuffleTestSuite.DuplicateIndices 1 0.00574729
+ShuffleTestSuite.IndexOutOfBoundsHigh 1 0.00558261
+ShuffleTestSuite.NegativeIndex 1 0.00351758
+ShuffleTestSuite.WrongIndexVectorSize 1 0.00414464
+ShuffleTestSuite.IdentityPermutation 1 0.00403155
+ShuffleTestSuite.EmptyString 1 0.00624584
+PvTestSuite.NonEmptyVectors 1 0.00523089
+PvTestSuite.EmptyVectors 1 0.00536358
+PvTestSuite.LargeVector 1 0.0056634
+OpsTestSuite.BasicIntOperations 1 0.00594174
+OpsTestSuite.DivideByZero 1 0.00563983
+OpsTestSuite.ApplyOpWithLibraryOps 1 0.00546787
+OpsTestSuite.BasicDoubleOperations 1 0.00556638
+OpsTestSuite.DivideNegativeNumbers 1 0.00561343
+OpsTestSuite.ApplyOpWithLambda 1 0.00403193
+---

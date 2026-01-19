@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/exec_trg.dir/s03.cpp.o -o exec_trg  my_lib/libmylib.a 

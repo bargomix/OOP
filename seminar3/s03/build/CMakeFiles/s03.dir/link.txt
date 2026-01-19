@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/s03.dir/s03.cpp.o -o s03  my_lib/libmylib.a 
